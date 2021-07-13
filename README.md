@@ -3,6 +3,6 @@
 
 
 
-please follow 
+please follow steps from  : Mobile App Readme.docx
 
 
